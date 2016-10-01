@@ -1,0 +1,11 @@
+git remote 
+
+git remote remove origin
+
+git remote add origin https://github.com/felipedischer/ToDoList
+
+git add .
+
+git commit -m "comentário"
+
+git push origin master
